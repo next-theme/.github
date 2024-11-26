@@ -2,7 +2,7 @@
 
 # NexT
 
-> «NexT» is a high quality elegant [Hexo](https://hexo.io) theme. It is crafted from scratch with love.
+> **NexT** is a high-quality elegant [Hexo](https://hexo.io) theme. It is crafted from scratch with love.
 
 [Website](https://theme-next.js.org) |
 [Documentation](https://theme-next.js.org/docs/) |
