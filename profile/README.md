@@ -26,9 +26,9 @@
 
 Connect with us and be part of our growing community!
 
-* **Telegram Group (Chinese Language)**: [Click here to join!](https://t.me/theme_next_cn).
-* **Discord Server**: [Join our Discord!](https://discord.gg/qmkgkY3jaG).
-* **Gitter**: [Join our Gitter chats!](https://app.gitter.im/#/room/#next:gitter.im).
+* **Telegram Group (Chinese Language)**: [Click here to join!](https://t.me/theme_next_cn)
+* **Discord Server**: [Join our Discord!](https://discord.gg/qmkgkY3jaG)
+* **Gitter**: [Join our Gitter chats!](https://app.gitter.im/#/room/#next:gitter.im)
 
 ## 🚀 Contributing
 
